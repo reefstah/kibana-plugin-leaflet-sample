@@ -1,6 +1,6 @@
-# A Kibana leaflet sample plugin
+# A Kibana Leaflet sample plugin
 
-![Image of Kibana leaflet plugin](https://amsterdam.luminis.eu/wp-content/uploads/2016/06/kibana-leaflet-plugin.png)
+![Image of Kibana Leaflet plugin](https://amsterdam.luminis.eu/wp-content/uploads/2016/06/kibana-leaflet-plugin.png)
 
 > A sample kibana plugin with leaflet 
 
